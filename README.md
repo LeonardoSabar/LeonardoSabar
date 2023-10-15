@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeonardoSabar
+- 👋 Hi, I’m Leonardo (@LeonardoSabar);
 - 👀 I’m interested in software development and programming in C.
 - 🌱 I’m currently learning C programming as I pursue a degree in Software Engineering at school 42.
 - 💞️ I’m looking to collaborate on open-source projects, particularly those related to C, algorithms, and data structures.
